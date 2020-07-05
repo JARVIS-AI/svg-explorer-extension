@@ -1,0 +1,65 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 32,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Daniel-Beardsmore",
+      "name": "Daniel Beardsmore",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/5874930?v=4",
+      "profile": "http://telcontar.net/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "GitMensch",
+      "name": "Simon Sobisch",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6699539?v=4",
+      "profile": "https://github.com/GitMensch",
+      "contributions": [
+        "doc",
+        "code"
+      ]
+    },
+    {
+      "login": "voodoo66",
+      "name": "",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/14852960?s=400&v=4",
+      "profile": "https://github.com/voodoo66",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "tibold",
+      "name": "Tibold Kandrai",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1974659?v=4",
+      "profile": "https://github.com/tibold",
+      "contributions": [
+        "test",
+        "ideas",
+        "code",
+        "maintenance",
+        "doc"
+      ]
+    },
+    {
+      "login": "maphew",
+      "name": "matt wilkie",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/486200?v=4",
+      "profile": "http://www.maphew.com",
+      "contributions": [
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 3,
+  "projectName": "svg-explorer-extension",
+  "projectOwner": "tibold",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
